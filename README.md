@@ -1,1 +1,1 @@
-# vue-dnd
+A vue drag and drop library.
